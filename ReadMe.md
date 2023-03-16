@@ -1,4 +1,4 @@
-# Predict Sentiment Analysis on Chrome Reviews using Machine Learning
+# Predict Sentiment Analysis on Chrome Reviews using NLP
 
 For Sentiment Analysis, we’ll use VADER Sentiment Analysis, where VADER means Valence Aware Dictionary and sentiment Reasoner.
 
